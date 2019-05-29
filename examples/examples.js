@@ -27,7 +27,7 @@ let patrick = new DigitalFilmAcademy("Digital Film Academy", "Patrick", "Lord Co
 let manish = new DigitalFilmAcademy("CodeImmersives", "Manish", "Student", 2);
 
 
-console.log(patrick.place());
-console.log(ginny.place());
-console.log(david.student());
-console.log(manish.place());
+patrick.place();
+ginny.place();
+david.student();
+manish.place();
