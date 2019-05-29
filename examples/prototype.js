@@ -212,8 +212,8 @@
 // snoop.sleep(2)
 
 /**
- * Psuedoclassical Instantiation
- */
+* Psuedoclassical Instantiation
+*/
 
 // class Animal {
 //     constructor(name, energy) {
